@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Typography, Button } from '@material-ui/core';
 import { Link } from 'react-router-dom';
-
 const Home = () => {
     return (
         <Container style={{ textAlign: 'center', padding: '2rem' }}>
